@@ -1,0 +1,11 @@
+End-to-End ML Pipeline with Deployment
+Problem statement: Build a complete ML system from data ingestion to live prediction API — the kind of thing a production data science team actually ships.
+Dataset: Any structured prediction problem — real estate pricing, customer churn, or demand forecasting with live data.
+Skills demonstrated: MLOps, Docker, API development, model versioning, CI/CD for ML Difficulty: Advanced | Time estimate: 3–4 weeks
+Deliverables:
+Feature engineering pipeline in Python (pandas/Polars)
+Trained model with experiment tracking (MLflow or Weights & Biases)
+FastAPI prediction endpoint with input validation
+Docker container deployable to any cloud provider
+Streamlit or Gradio frontend for interactive demo
+README documenting the full architecture and deployment steps
